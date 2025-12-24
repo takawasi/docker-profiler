@@ -69,6 +69,10 @@ docker-profiler -c myapp --live
 - Python 3.10+
 - `docker` Python SDK
 
+## More Tools
+
+See all dev tools: https://takawasi-social.com/en/
+
 ## License
 
 MIT
