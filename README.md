@@ -1,5 +1,7 @@
 # docker-profiler
 
+> **Documentation**: https://takawasi-social.com/tools/docker-profiler/
+
 Visualize Docker container resources with ASCII graphs.
 
 docker stats, but visual.
